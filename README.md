@@ -60,3 +60,7 @@ A limited number of manufacturers are represented; a broader dataset would provi
 Electric vehicles are absent from this dataset — as EV adoption grows, understanding how electric fuel type affects resale value is an important gap to fill in future analysis
 
 
+- Screenshots:
+![Screenshot](https://github.com/jb00753/Data-Analytics-Project1/blob/main/assets/Screenshot%20(175).png?raw=true)
+
+![Screenshot](https://github.com/jb00753/Data-Analytics-Project1/blob/main/assets/Screenshot%20(176).png?raw=true)
